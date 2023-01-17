@@ -44,5 +44,17 @@ step 6:run app.js
     
 step 6:open application in browser in using http://localhost:3000
       
+<br/>
 
+
+NODEMON
+
+    Nodemon will restart a Node application when file changes in a directory are detected.
+
+    step 1: npm install nodemon -g
+    step 2: nodemon app.js
+    
+      
+    
+    
     
