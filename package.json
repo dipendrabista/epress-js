@@ -1,0 +1,14 @@
+{
+  "name": "express-learning",
+  "version": "1.0.0",
+  "description": "express tutorials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dipendra.bista",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
