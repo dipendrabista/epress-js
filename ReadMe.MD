@@ -55,6 +55,19 @@ NODEMON
     step 2: nodemon app.js
     
       
-    
-    
+LIVE-SERVER  
+
+    Live-server on the other hand, will refresh your browser when changes are detected to any supported file types (e.g. HTML, JS, CSS).
+    It also enables Ajax requests when you are working locally — these don't normally work with the file:// protocol.  
+     
+     STEP 1: npm i -g live-server
+     
+     STEP 2:create simple index.html
+     
+     step 3:live-server index.html
+            
+            make changes on index.html ,it will automatically reload the browser.
+            
+            
+        
     
