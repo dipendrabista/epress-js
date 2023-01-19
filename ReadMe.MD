@@ -67,7 +67,15 @@ LIVE-SERVER
      step 3:live-server index.html
             
             make changes on index.html ,it will automatically reload the browser.
-            
+
+THUNDER CLIENT EXTENSION FOR VSCODE
+
+    similar to postman,vscode mai api test garna sakinxa ,window switch garnupardaina 
+    ,ram save hunxa same application ma open hunevayekole. postman use garne ho vane
+    vscode bata arko application ma janu parne hunxa 
+   
+
+
             
         
     
